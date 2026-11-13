@@ -50,7 +50,7 @@ __________________________________________________________________
 | Project | Work Done | Live Link |
 |---------|-----------|-----------|
 | 19th Street | Page redesign & new pages | [Visit](https://19stderm.com/) |
-| Advanced Skin & Laser Center | Elementor development, GA4/GTM event tracking | [Visit](https://advancedskinlaser.com) |
+| Advanced Skin & Laser Center | Landing Page Design, GA4/GTM event tracking | [Visit](https://advancedskinlaser.com) |
 | Align Aesthetics | Forms, updates, email deliverability | [Visit](https://alignaestheticsmd.com) |
 | Family Wellness Group | Divi header & footer redesign | [Visit](https://familywellnessgroup.com) |
 | Collaborative Professionals of Virginia | Events calendar & site maintenance | [Visit](https://cpnova.com) |
