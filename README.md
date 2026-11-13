@@ -27,12 +27,15 @@ __________________________________________________________________
 
 | Project | Work Done | Live Link |
 |---------|-----------|-----------|
-| Cronin Dermatology | Full site rebuild | [Visit](https://cronindermatology.com) |
-| Advanced Skin & Laser Center | Elementor development, GA4/GTM event tracking | [Visit](https://advancedskinlaser.com) |
-| Align Aesthetics | Forms, updates, email deliverability | [Visit](https://alignaestheticsmd.com) |
-| Family Wellness Group | Divi header & footer redesign | [Visit](https://familywellnessgroup.com) |
-| Collaborative Professionals of Virginia | Events calendar & site maintenance | [Visit](https://cpnova.com) |
-| The Consortium | Page redesign & new pages | [Visit](https://consortium.org) |
+| Friendsch Tech | Full site rebuild | [Visit](https://friendscotech.com/) |
+| We Assure | Full site rebuild | [Visit](https://weassure.uk/) |
+| Quality Repair | Full site rebuild | [Visit](https://qualityrepairplans.co.uk/) |
+| Allied Protection | Full site rebuild | [Visit](https://alliedprotection.uk/) |
+| Smartrated | Translated Pages Content | [Visit](https://smartraterd.com/en/home-eng/) |
+| Gold Coast Patrols | Page redesign & new pages | [Visit](https://gcpatrols.com/) |
+| Spectrum Plants | Page redesign & new pages | [Visit](https://spectrumplants.com.au/) |
+| Household Services | Page redesign & new pages | [Visit](https://householdservicegroup.com/)|
+| Gnet Web Solutuions | Page redesign & new pages | [Visit](https://gnetweb.co.za/)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
