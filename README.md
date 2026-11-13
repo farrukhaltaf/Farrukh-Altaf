@@ -1,4 +1,4 @@
-Hi, I'm Farrukh Altaf
+Hi, I'm **Farrukh Altaf**
 
 **WordPress Developer** | Elementor • WPBakery • Divi • Custom Themes • GTM/GA4 Tracking
 Currently working remotely with a US-based agency.
