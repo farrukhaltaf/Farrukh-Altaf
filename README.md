@@ -35,7 +35,12 @@ __________________________________________________________________
 | Gold Coast Patrols | Page redesign & new pages | [Visit](https://gcpatrols.com/) |
 | Spectrum Plants | Page redesign & new pages | [Visit](https://spectrumplants.com.au/) |
 | Household Services | Page redesign & new pages | [Visit](https://householdservicegroup.com/)|
-| Gnet Web Solutuions | Page redesign & new pages | [Visit](https://gnetweb.co.za/)
+| Gnet Web Solutuions | Page redesign & new pages | [Visit](https://gnetweb.co.za/) |
+| Business Equipment Warehouse | Full site build | [Visit](https://bew.net.au/) |
+| SEZN Biogas | Full site build | [Visit](https://seznbiogas.com/) |
+| Netlogyxit | Full site build | [Visit](https://netlogyxit.com.au/) |
+| Luxury Perfume | Full site build | [Visit](https://luxury-perfume.com/) |
+| Comprehensive Network | Full site build | [Visit](https://comprehensive.network/) |
 
 ---------------------------------------------------------------------------------------------------------------------------
 
