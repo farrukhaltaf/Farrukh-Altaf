@@ -63,5 +63,7 @@ __________________________________________________________________
 | Project | Work Done | Live Link |
 |---------|-----------|-----------|
 | Nuvobrix | Full site rebuild | [Visit](http://nuvobrix.com) |
+| Orbit Pakistan | Full Blogsite build | [Visit](https://orbitpakistan.com.pk/) |
+| Pakistan Travel & Tours | Full site build | [Visit](https://www.pakistantours.pk/) |
 
 ---------------------------------------------------------------------------------------------------------------------------
