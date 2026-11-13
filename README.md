@@ -41,6 +41,7 @@ __________________________________________________________________
 | Netlogyxit | Full site build | [Visit](https://netlogyxit.com.au/) |
 | Luxury Perfume | Full site build | [Visit](https://luxury-perfume.com/) |
 | Comprehensive Network | Full site build | [Visit](https://comprehensive.network/) |
+| Air Conditioner Installation | Full Landing Page Design | [Visit](https://airconditionerinstallation.au/) |
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -48,11 +49,19 @@ __________________________________________________________________
 
 | Project | Work Done | Live Link |
 |---------|-----------|-----------|
-| Cronin Dermatology | Full site rebuild | [Visit](https://cronindermatology.com) |
+| 19th Street | Page redesign & new pages | [Visit](https://19stderm.com/) |
 | Advanced Skin & Laser Center | Elementor development, GA4/GTM event tracking | [Visit](https://advancedskinlaser.com) |
 | Align Aesthetics | Forms, updates, email deliverability | [Visit](https://alignaestheticsmd.com) |
 | Family Wellness Group | Divi header & footer redesign | [Visit](https://familywellnessgroup.com) |
 | Collaborative Professionals of Virginia | Events calendar & site maintenance | [Visit](https://cpnova.com) |
 | The Consortium | Page redesign & new pages | [Visit](https://consortium.org) |
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**Nuvobrix**
+
+| Project | Work Done | Live Link |
+|---------|-----------|-----------|
+| Nuvobrix | Full site rebuild | [Visit](http://nuvobrix.com) |
 
 ---------------------------------------------------------------------------------------------------------------------------
