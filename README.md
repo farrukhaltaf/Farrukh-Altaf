@@ -45,16 +45,71 @@ __________________________________________________________________
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-**BlueHuki Group**
+**BlueHuki It Group**
 
 | Project | Work Done | Live Link |
 |---------|-----------|-----------|
+| BlueHuki | Page redesign & new pages | [Visit](https://bluehuki.com/) |
+| Bluehuki Resources vault | Added Content & Posts | [Visit](https://wiki.bluehuki.com/) |
 | 19th Street | Page redesign & new pages | [Visit](https://19stderm.com/) |
 | Advanced Skin & Laser Center | Landing Page Design, GA4/GTM event tracking | [Visit](https://advancedskinlaser.com) |
+| Argent Bridge | Page redesign | [Visit](https://argentbridge.com/) |
+| MMG Law | Full site redesign | [Visit](https://mmglaw.com/) |
+| Dermestetics | Multisite new Pages design | [Visit](https://dermestetics.com/) |
+| Séchoir Beauty Bar | Multisite Landing & New Pages Design | [Visit](https://sechoirbeautybarva.com/) |
+| Efficiency Enterprises | Page redesign & new pages | [Visit](https://efficiencyenterprises.com/) |
+| Roberts Law Family | Full site redesign | [Visit](https://cwrfamilylaw.com/) |
+| Affirmed Logistics | Page redesign & new pages | [Visit](https://affirmedlog.com/) |
+| Honey Do Today | Page redesign & new pages | [Visit](https://honeydotoday.com/) |
+| Discovher Health | Page redesign & new pages | [Visit](https://discovherhealth.com/) |
+| Riskprotips | Full site Build | [Visit](https://riskprotips.com/) |
+| Cosmetic Loungemd | Landing & New Pages Design | [Visit](https://cosmeticloungemd.com/) |
+| Cook Legal Solutions | Full site Build | [Visit](https://cooklegalsolutions.com/) |
+| Therapize Me | Full site Build | [Visit](https://mentalhealth.vegas/) |
+| Metrodermdc | Full site rebuild | [Visit](https://www.metrodermdc.com/) |
+| Truorthodontics | Multisite Landing & New Pages Design | [Visit](https://truorthodontics.us/) |
+| CS Law | Full site build | [Visit](https://calderonseguin.com/) |
+| Smarter Skin Dermatology | Landing & New Pages Design | [Visit](https://smarterskindermatology.com/) |
+| Collaborative Studio | Full site Build | [Visit](https://collaboration-studio.com/) |
+| Shoun | Landing Page Design | [Visit](https://shoun.com/) |
+| CGG Law | Full Site Build | [Visit](https://www.cgglawyers.com/) |
+| Mama Support | Full Site Build | [Visit](https://mama-support.com/) |
+| Integrated Dermatology of Montrose | Full Site Build | [Visit](https://www.integrateddermatologyofmontrose.com/) |
+| Profast Flooring | Full Site Build | [Visit](https://profastflooring.com/) |
+| Miller Dermatology | Full site Build | [Visit](https://millerfamilydermatology.com/) |
+| Collaborative Professionals of Virginia | Events calendar & site maintenance | [Visit](https://cpnova.com) |
+| Peel Haus | Full Site Build | [Visit](https://peelhaus.com/) |
+| Integrated Neorology Services | Full Site Build | [Visit](https://integratedneurologyservices.com/) |
+| Patterson Bookwalter PLLC | Page redesign & new pages | [Visit](https://pattbook.com/) |
+| Malisse Skin Bar | Full Site Build | [Visit](https://malisseskinbar.com/) |
+| Avienedspa | Event Managemet & Site Maintenance | [Visit](https://aviemedspa.com/) |
+| ACS Dermatology | Landing Page Design | [Visit](https://acsdermatology.com/) |
+| MKcounselingdc | Page redesign & new pages | [Visit](https://mkcounselingdc.com/) |
+| ND3inc | Page redesign & new pages | [Visit](https://nd3inc.com/) |
+| AestheticArtistryMD | Full Site Redesign | [Visit](https://aestheticartistrymd.com/) |
+| Reston Dermatology | Page redesign & new pages | [Visit](https://restondermatology.com/) |
+| Big Foot | Full Site Design | [Visit](https://bigfootbraces.com/) |
+| Divorce Mediation Association | Full Site Build | [Visit](https://divorcemediationassociatesva.com/) |
+| Grove Dalewinery | Page redesign & new pages | [Visit](https://grovedalewinery.com/) |
+| Cronin Dermatology | Full Site Build | [Visit](https://cronindermatology.com/) |
+| Lawrence Arkema | Full SIte Build | [Visit](https://lawrencearkema.com/) |
+| GDLWR | Full Site Build | [Visit](https://vafamilylaw.com/) |
+| Dispensary Works | Full Site Buld | [Visit](https://dispensaryworks.com/) |
+| Wilmington Parking | Page redesign & new pages | [Visit](https://www.wilmingtonparking.com/) |
+| Integrated Dermatology | Landing Page Design | [Visit](https://idermgma.com/) |
 | Align Aesthetics | Forms, updates, email deliverability | [Visit](https://alignaestheticsmd.com) |
 | Family Wellness Group | Divi header & footer redesign | [Visit](https://familywellnessgroup.com) |
-| Collaborative Professionals of Virginia | Events calendar & site maintenance | [Visit](https://cpnova.com) |
-| The Consortium | Page redesign & new pages | [Visit](https://consortium.org) |
+| The Consortium | Full Site Build | [Visit](https://consortium.org) |
+| inspire behavioral health | Page redesign & new pages | [Visit](https://inspirebehavioralhealth.com/) |
+| Elevate Oral Surgery | Page redesign & new pages | [Visit](https://www.elevateoralsurgery.com/) |
+| GoSmile Dentistry | Full Site Build | [Visit](https://gosmiles.com/) |
+| Goding Law | Full Sie Build | [Visit](https://godingfirm.law/) |
+| Wine Fetch | Page redesign & new pages | [Visit](https://www.winefetch.com/retailers/) |
+| Deni Fan Therapy | Page redesign & new pages | [Visit](https://danifeintherapy.com/) |
+| Decisive Cybernetics | Full Site Build | [Visit](https://decisivecybernetics.com/) |
+| Dermatology Center of Loudoun | Page redesign & new pages | [Visit](https://dermloudoun.com/) |
+| Nawbo DC | Page redesign & new pages | [Visit](https://nawbodc.com/) |
+| Collaborarive Law | Page redesign & new pages | [Visit](https://collaborativelawdmv.com/) |
 
 ---------------------------------------------------------------------------------------------------------------------------
 
