@@ -111,6 +111,17 @@ __________________________________________________________________
 | Nawbo DC | Page redesign & new pages | [Visit](https://nawbodc.com/) |
 | Collaborarive Law | Page redesign & new pages | [Visit](https://collaborativelawdmv.com/) |
 
+
+
+**Squarespace**
+
+| Project | Work Done | Live Link |
+|---------|-----------|-----------|
+| Ipic Care | Full site build | [Visit](http://https://www.ipiccare.com/) |
+| The Cow Boy Cafe | Full site build | [Visit](http://www.thecowboycafe.com) |
+| Bookkeeping Gurus | Full site build | [Visit](https://www.bkeepinggurus.com/) |
+| Pace Consulting | Full site build | [Visit](https://www.pace-consulting.com/) |
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 **Nuvobrix**
